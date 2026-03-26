@@ -1,46 +1,18 @@
-# Hi, I'm Thaveedh
+# 💫 About Me:
+Hey! I'm a fresher currently building my foundation in **AI/ML** while being strong in **Java and DSA** 💻<br><br>* 💻 Core skills: Java, Data Structures & Algorithms<br>* 🧠 Currently learning: Machine Learning, Deep Learning basics<br>* 🔍 Exploring: How to integrate AI/ML with backend systems<br>* 🛠️ Tools: Java, basic Python (learning), problem-solving platforms<br>* 🤝 Looking to collaborate on: Beginner-friendly AI/ML projects and DSA-based problem solving<br>* 💡 Interested in: Real-time applications, backend systems, and intelligent solutions<br>* 📈 Goal: To transition from strong DSA + Java foundation into AI/ML engineering<br><br>I believe in learning by building — currently leveling up step by step from **DSA → AI/ML**.<br>If you're working on something where **Java + logic + AI** can come together, I'm in 🔥<br><br>📫 Let's connect and build something meaningful!<br>
 
-I am a student developer with hands-on experience in Java and Python.  
-I focus on understanding core programming concepts, Object-Oriented Programming (OOP), and building small real-world projects while learning backend fundamentals.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thaveedh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thaveedh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaveedhuofficial@gmail.com) 
 
-## Skills & Technologies
-
-- **Languages:** Java, Python  
-- **Core Concepts:** Object-Oriented Programming (OOP), Basic Data Structures  
-- **Backend (Learning):** REST APIs, Spring Boot / Flask (beginner level)  
-- **AI / NLP (Learning):** Speech-to-Text, Language Detection, Translation  
-- **Tools:** Git, GitHub  
-
----
-
-## Projects
-
-### Payment Gateway Integration (Java)
-A Java-based payment gateway integration for an e-commerce application, implemented using OOP principles.  
-Covers order creation, payment initiation, and basic payment status handling.
-
-Tech used: Java, OOP
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thaveedh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thaveedh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaveedh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=thaveedh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Multilingual Video Transcription and Translation
-A Python application that extracts speech from videos, converts it into timestamped text, detects the spoken language, and translates the transcript into a selected language.
-
-Tech used: Python, Speech Recognition, NLP
-
----
-
-### Train Information Processing System
-A Python-based project that processes train-related information and extracts key details using natural language inputs.
-
-Tech used: Python, Basic NLP
-
----
-
-## Contact
-
-GitHub: https://github.com/thaveedh  
-LinkedIn: https://www.linkedin.com/in/thaveedh
-I am continuously learning and improving my programming and backend skills.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
